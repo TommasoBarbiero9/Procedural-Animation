@@ -710,10 +710,45 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 561849835479855184, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2481603287010773429, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 2739272836172623962, guid: 4b1631d3a17e4475695bead381034414,
         type: 3}
       propertyPath: m_Name
       value: Robotic Spider
+      objectReference: {fileID: 0}
+    - target: {fileID: 3025602251689681967, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3530235903813352610, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920746183507938779, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869102438584003845, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6244614497515494565, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
       objectReference: {fileID: 0}
     - target: {fileID: 6406560115282865596, guid: 4b1631d3a17e4475695bead381034414,
         type: 3}
@@ -770,6 +805,11 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1655308198}
+    - target: {fileID: 8809298068173172968, guid: 4b1631d3a17e4475695bead381034414,
+        type: 3}
+      propertyPath: footOffset.y
+      value: -0.2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
